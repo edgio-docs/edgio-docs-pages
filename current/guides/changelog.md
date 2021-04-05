@@ -1,3 +1,29 @@
+#### **XDN Developer Console** - [v1.49.2](https://github.com/moovweb/le-deployer/releases/tag/v1.49.2) (2021-04-05)
+* Added back default value for context (#877) @KaarelKelk---
+#### **XDN Developer Console** - [v1.49.1](https://github.com/moovweb/le-deployer/releases/tag/v1.49.1) (2021-04-05)
+* fix(CVW) Fixed default selected host on CWV page (#876) @KaarelKelk---
+#### **XDN Developer Console** - [v1.49.0](https://github.com/moovweb/le-deployer/releases/tag/v1.49.0) (2021-04-05)
+* fix(GithubDeploy): Github race condition + token encryption (#868) @adrien-k---
+#### **XDN Developer Console** - [v1.48.2](https://github.com/moovweb/le-deployer/releases/tag/v1.48.2) (2021-04-03)
+* Added timeframe to hosts endpoint (#871) @dijs* CWV Filter fix (#867) @dijs* Core Web Vitals Tabs host fix (#870) @dijs---
+#### **XDN Packages** - [v2.49.4](https://github.com/moovweb/xdn/releases/tag/v2.49.4) (2021-04-02)
+* XDN-10553 - Next.js: Homepage with getStaticProps fails to serve json… (#801) @markbrocato---
+#### **XDN Packages** - [v2.49.3](https://github.com/moovweb/xdn/releases/tag/v2.49.3) (2021-04-01)
+* Fix issue compiling TypeScript routes file when TypeScript errors exi… (#800) @markbrocato* Use Node12 with XDN v2 (#794) @ierceg---
+#### **XDN Developer Console** - [v1.48.1](https://github.com/moovweb/le-deployer/releases/tag/v1.48.1) (2021-04-01)
+* fix deploy github route (#866) @adrien-k---
+#### **XDN Developer Console** - [v1.48.0](https://github.com/moovweb/le-deployer/releases/tag/v1.48.0) (2021-04-01)
+* feat(edge-redirect): allow URL as 'from' (#865) @adrien-k* [MIGRATION SKIP-MAINTENANCE] Add Deploy to XDN Button (#626) @dijs---
+#### **XDN Packages** - [v2.49.2](https://github.com/moovweb/xdn/releases/tag/v2.49.2) (2021-03-31)
+* Bump y18n from 4.0.0 to 4.0.1 (#791) @dependabot* [Snyk] Upgrade i18next from 19.8.4 to 19.9.1 (#778) @MEGrimshaw* [Snyk] Upgrade lodash from 4.17.19 to 4.17.21 (#776) @MEGrimshaw* [Snyk] Upgrade ts-loader from 8.0.14 to 8.0.17 (#774) @MEGrimshaw* [Snyk] Upgrade ajv from 6.12.3 to 6.12.6 (#775) @MEGrimshaw* [Snyk] Upgrade rxjs from 6.5.5 to 6.6.6 (#779) @MEGrimshaw* [Snyk] Upgrade mime-types from 2.1.27 to 2.1.29 (#780) @MEGrimshaw* Fix default redirect response body (#790) @ierceg---
+#### **XDN Developer Console** - [v1.47.2](https://github.com/moovweb/le-deployer/releases/tag/v1.47.2) (2021-03-31)
+* Fix error on CLS tab in Core Web Vitals page (#863) @markbrocato---
+#### **XDN Packages** - [v2.49.1](https://github.com/moovweb/xdn/releases/tag/v2.49.1) (2021-03-31)
+* Add Ember Fastboot detection to xdn init. (#789) @markbrocato---
+#### **XDN Packages** - [v2.49.0](https://github.com/moovweb/xdn/releases/tag/v2.49.0) (2021-03-31)
+* XDN-10455 - Ember Fastboot Connector (#788) @markbrocato* Log the size of the generated VCL code (#787) @ierceg* Treat empty excludeAllQueryParametersExcept as excludeAllQueryParameters (#786) @ierceg---
+#### **XDN Developer Console** - [v1.47.1](https://github.com/moovweb/le-deployer/releases/tag/v1.47.1) (2021-03-31)
+* More conspicuous selection model for Traffic tab routes table (#860) @kevhender* Show tooltip on all charts when hovering on one (#855) @kevhender* Clean up param misses load message, revert ILS sort (#861) @kevhender* XDN-10384 - Fix z-index issues on CWV page (#862) @kevhender* Fix color of radios (#857) @kevhender* XDN-10380 - Fix cache hit rate chart tooltip and data dropoff (#852) @kevhender* XDN-10378 - Add sorting for ILS table (#851) @kevhender* XDN-10377 - A loading message to query param misses table (#853) @kevhender* XDN-10376 - Scroll to top when changing routes (#854) @kevhender* Change Traffic Trend chart legend to be checkboxes (#856) @kevhender* Change duration label to always be "28 days" (#858) @kevhender---
 #### **XDN Developer Console** - [v1.47.0](https://github.com/moovweb/le-deployer/releases/tag/v1.47.0) (2021-03-29)
 * Fix default export for missingDataUtils (#850) @KaarelKelk* Delay prerendering after build (#840) @KaarelKelk* fix(CI): docker cache (#839) @adrien-k* Implemented new rum endpoint for top hosts (#800) @KaarelKelk* Use full cname validation (#849) @leotoll* Add traffic tab to environment page (#832) @kevhender* Segment pardot attribution fix + mimemagic version update (#848) @leotoll* Standardize the look of cancel buttonsin dialogs and improve their lo… (#843) @markbrocato* Removed weighted % and replaced with traffic (#842) @KaarelKelk* fix(Activity) Fixed showing "show all" when there's all records shown (#845) @KaarelKelk* Fixed environment name on airbrake (#844) @KaarelKelk---
 #### **XDN Packages** - [v2.48.4](https://github.com/moovweb/xdn/releases/tag/v2.48.4) (2021-03-25)
