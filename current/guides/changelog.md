@@ -13,13 +13,19 @@
 
 - feat(Devtools/branding): change logo to Layer0 (#831) @adrien-k
 
+---
+
 #### **Layer0 Packages** - [v3.0.1](https://github.com/moovweb/xdn/releases/tag/v3.0.1) (2021-04-12)
 
 - Allow surrogate key to be set through the router (#833) @ierceg
 
+---
+
 #### **Layer0 Packages** - [v3.0.0](https://github.com/moovweb/xdn/releases/tag/v3.0.0) (2021-04-09)
 
 - Breaking change in v3: disable watching attribute changes when using @xdn/prefetch watchLinks (#824) @ierceg
+
+---
 
 #### **Layer0 Developer Console** - [v1.49.2](https://github.com/layer0/le-deployer/releases/tag/v1.49.2) (2021-04-05)
 
