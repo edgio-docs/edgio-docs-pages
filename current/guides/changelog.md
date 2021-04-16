@@ -447,7 +447,7 @@
 
 - tests(ConsoleRedirect/ForwardQS): enable integration test (#687) @adrien-k
 - feat: CLI/layer0 env pull (#700) @adrien-k
-- Add layer0_eid cookie and related RUM server timings (#704) @ierceg
+- Add xdn_eid cookie and related RUM server timings (#704) @ierceg
 - fix(BrokenSnapshot): Added missing json.escape() (#705) @MarkusTarn
 - L0-6660_Do-not-log-to-s3-access-logs-on-free-tier_Markus-Tarn (#688) @MarkusTarn
 - L0-8464_Build-fails-schema-validation-when-setting-sources-in-layer0configjs_Markus-Tarn (#703) @MarkusTarn
@@ -815,7 +815,7 @@
 - Fix next peerDependency in @layer0 and automatically add @layer0/svelte whe… (#535) @markbrocato
 - chore(prettier): harmonize prettier and format more file types (#547) @adrien-k
 - fix(Fastly): expose invalid backend domain error (#550) @adrien-k
-- Remove layer0_pref_headers param (#518) @kevhender
+- Remove xdn_pref_headers param (#518) @kevhender
 - feat(Devtools/Visualizer) (#509) @adrien-k
 
 ---
@@ -972,7 +972,7 @@
 
 #### **Layer0 Packages** - [v2.11.1](https://github.com/layer0/layer0/releases/tag/v2.11.1) (2020-09-16)
 
-- Update integration tests for POST/GET&layer0_prefetch=1 caching (#494) @phdunham
+- Update integration tests for POST/GET&xdn_prefetch=1 caching (#494) @phdunham
 - Next.js: Fix layer0 build on windows (#492) @markbrocato
 - Fix coverage of nextRoutes (#493) @leotoll
 
