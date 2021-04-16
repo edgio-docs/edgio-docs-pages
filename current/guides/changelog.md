@@ -331,7 +331,7 @@
 
 #### **Layer0 Packages** - [v2.46.11](https://github.com/layer0/layer0/releases/tag/v2.46.11) (2021-03-09)
 
-- fix(Devtools): edge hit flag ignoring re-entering x-0-t values (#745) @adrien-k
+- fix(Devtools): edge hit flag ignoring re-entering x-xdn-t values (#745) @adrien-k
 - Changelog script updates for cleaner output and entry title (#746) @tristanlee85
 - L0-9547 - Fix issue with matching excluded paths with serveStatic on… (#747) @markbrocato
 - Fix for updating cert with fewer domains (#740) @leotoll
@@ -549,7 +549,7 @@
 - Bump axios from 0.19.2 to 0.21.1 in /packages/build-lambda (#674) @dependabot
 - feat: Preserve Cache + permanent assets (#645) @adrien-k
 - Don't cache fallback route for Angular/Spartacus (#672) @kevhender
-- fix x-0-destination destinationName escape in edge_recv_evaluate_de… (#673) @KaarelKelk
+- fix x-xdn-destination destinationName escape in edge_recv_evaluate_de… (#673) @KaarelKelk
 - fix(Prerender) fix types (#668) @KaarelKelk
 - User lambda errors during deployment are not reported to CLI (#648) @MarkusTarn
 
@@ -743,7 +743,7 @@
 
 #### **Layer0 Packages** - [v2.26.3](https://github.com/layer0/layer0/releases/tag/v2.26.3) (2020-10-28)
 
-- Log x-0-hit-request-id (#583) @ierceg
+- Log x-xdn-hit-request-id (#583) @ierceg
 
 ---
 
@@ -1009,7 +1009,7 @@
 - Fix bug when using proxy with path option and a catch-all or optional… (#482) @markbrocato
 - Run request/response header manipulation in compute/trasnform (#483) @ierceg
 - Add functionality for prefetching GQL requests. (CU-a6axpw) (#451) @markbrocato
-- Add x-0-user-t to server-timing response header (#484) @ierceg
+- Add x-xdn-user-t to server-timing response header (#484) @ierceg
 - Bump node-fetch from 2.6.0 to 2.6.1 in /integration-tests/edge (#487) @dependabot
 - Bump node-fetch from 2.6.0 to 2.6.1 in /packages/core (#486) @dependabot
 - Add support for running Sapper apps with layer0 run --production (#481) @markbrocato
@@ -1062,7 +1062,7 @@
 
 #### **Layer0 Packages** - [v2.6.1](https://github.com/layer0/layer0/releases/tag/v2.6.1) (2020-09-02)
 
-- Optimize x-0-original-qs to be injected only when qs are changed (#468) @ierceg
+- Optimize x-xdn-original-qs to be injected only when qs are changed (#468) @ierceg
 
 ---
 
@@ -1072,7 +1072,7 @@
 - Fix memory overconsumption in moov_hash (#463) @ierceg
 - Router static implementation for next (#428) @leotoll
 - Improve ci time (#447) @leotoll
-- Inject example x-0-geo- headers when running locally for easier testing. (#460) @phdunham
+- Inject example x-xdn-geo- headers when running locally for easier testing. (#460) @phdunham
 - Emulate edge by injecting headers based on user-agent (#457) @phdunham
 
 ---
@@ -1084,7 +1084,7 @@
 - L0-1438 - Fix bug where using an async callback in compute() results… (#456) @markbrocato
 - fix(@layer0/angular) Fix link command (#436) @KaarelKelk
 - Update the color scheme of the logo in the CLI. (#455) @markbrocato
-- Emulate edge's x-0-client-ip header when running locally (#454) @phdunham
+- Emulate edge's x-xdn-client-ip header when running locally (#454) @phdunham
 
 ---
 
