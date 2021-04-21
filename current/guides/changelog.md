@@ -1,3 +1,68 @@
+#### **Layer0 Developer Console** - [v1.52.0](https://github.com/moovweb/le-deployer/releases/tag/v1.52.0) (2021-04-20)
+
+🚀 New Features
+
+- The router code is now displayed in the site and deployment views with overlaid caching stats. @MarkusTarn (#841)
+- The new alerts feature allows users to subscribe to email alerts for caching, core web vitals, deployments, and more. @MarkusTarn (#818)
+
+✨ Enhancements
+
+- Renaming updates slug and subdomains @adrien-k (#896)
+- Preserve overridden metrics values @KaarelKelk (#907)
+- Show deployments and cache purges in all graphs @kevhender (#892)
+
+🐛 Bug Fixes
+
+- Show correct env name instead of production on current production deployment card. @KaarelKelk (#911)
+- Fix some brand naming. @markbrocato (#909)
+
+---
+
+#### **Layer0 Developer Console** - [v1.51.1](https://github.com/moovweb/le-deployer/releases/tag/v1.51.1) (2021-04-19)
+
+- L0-10892 - CWV tab stats should update when filters are changed @kevhender (#900)
+- L0-10816 - Force refresh when user changes dark mode setting @kevhender (#903)
+
+---
+
+#### **Layer0 Developer Console** - [v1.51.0](https://github.com/moovweb/le-deployer/releases/tag/v1.51.0) (2021-04-19)
+
+- feat(LambdaJob) store logs in redis until archive (Step 1) @KaarelKelk (#899)
+- [MIGRATION SKIP-MAINTENANCE] feat(Starter): set team edge region separately @adrien-k (#890)
+- fix(Activity) Fixed showing API cache purges @KaarelKelk (#904)
+- fix(Layer0) renamed version on build overview @KaarelKelk (#902)
+- feat(RDNSupport): change logo and layout @adrien-k (#898)
+- Delete button text fix @leotoll (#895)
+- add version to deploy tracking @leotoll (#897)
+- Fixed scope on xdn => layer0 package @KaarelKelk (#894)
+
+---
+
+#### **Layer0 Developer Console** - [v1.50.1](https://github.com/moovweb/le-deployer/releases/tag/v1.50.1) (2021-04-13)
+
+- fix(Overview) fixed race conditions for chart data @KaarelKelk (#893)
+
+---
+
+#### **Layer0 Developer Console** - [v1.50.0](https://github.com/moovweb/le-deployer/releases/tag/v1.50.0) (2021-04-13)
+
+- fix(CI/ecs-utils): show logs on failure @adrien-k (#891)
+- feat(Staff): layer0/moovforge emails flagged internal @adrien-k (#888)
+- docs: Release operations @adrien-k (#889)
+- Fixing layout shift of site overview page @dijs (#881)
+- [GO-LIVE] Rebrand to app.layer0.co console @adrien-k (#828)
+- chore(deps): bump y18n from 3.2.1 to 3.2.2 @dependabot (#864)
+- feat(Admin/Teams): filter personal teams out @adrien-k (#887)
+- Restrict domains to 64 chars @leotoll (#886)
+- Default to OS dark setting @dijs (#885)
+- Removed localhost from site cards @dijs (#874)
+- Updated link to docs @dijs (#873)
+- Added stage env to CF and updated comments/readme about sandbox to in… @KaarelKelk (#884)
+- Added support for staging domains @Th0masL (#869)
+- Push LD to stage on push/merge to master @KaarelKelk (#883)
+
+---
+
 #### **Layer0 Packages** - [v3.0.3](https://github.com/moovweb/xdn/releases/tag/v3.0.3) (2021-04-13)
 
 - [Snyk] Upgrade webpack from 5.26.3 to 5.27.0 (#825) @MEGrimshaw
@@ -24,6 +89,19 @@
 #### **Layer0 Packages** - [v3.0.0](https://github.com/moovweb/xdn/releases/tag/v3.0.0) (2021-04-09)
 
 - Breaking change in v3: disable watching attribute changes when using @xdn/prefetch watchLinks (#824) @ierceg
+
+---
+
+#### **Layer0 Developer Console** - [v1.49.4](https://github.com/moovweb/le-deployer/releases/tag/v1.49.4) (2021-04-07)
+
+- L0-10507 - Improve the release notes template @markbrocato (#880)
+- Make caa valid when empty @leotoll (#879)
+
+---
+
+#### **Layer0 Developer Console** - [v1.49.3](https://github.com/moovweb/le-deployer/releases/tag/v1.49.3) (2021-04-06)
+
+- [MIGRATION SKIP-MAINTENANCE] chore(GithubDeploy): remove non-encrypt tokens from DB (#875) @adrien-k
 
 ---
 
