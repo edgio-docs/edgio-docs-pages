@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.53.0](https://github.com/moovweb/le-deployer/releases/tag/v1.53.0) (2021-04-22)
+✨ Enhancements- Internal API: GET /internal/v1/aws-accounts @adrien-k (#920)🐛 Bug Fixes- Replace moovweb.com references left in e-mails @adrien-k (#923)---
 #### **Layer0 Developer Console** - [v1.52.1](https://github.com/moovweb/le-deployer/releases/tag/v1.52.1) (2021-04-21)
 ✨ Enhancements- Handle empty CWV stats better @dijs (#878)- updates to seeds and maintenance template @KaarelKelk (#918)- Added redis service to test-with-integration @KaarelKelk (#906)🐛 Bug Fixes- Publish changelog to correct repo @tristanlee85 (#917)- Fix selection of cache hit/miss filters for CWV @kevhender (#915)- feat(RouterInfoInConsole): Added router location to router info @MarkusTarn (#914)- Fix overview CWV tab for when current period has no data @kevhender (#916)---
 #### **Layer0 Developer Console** - [v1.52.1](https://github.com/moovweb/le-deployer/releases/tag/v1.52.1) (2021-04-21)
