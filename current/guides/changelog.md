@@ -1,3 +1,6 @@
+#### **Layer0 Developer Console** - [v1.54.1](https://github.com/moovweb/le-deployer/releases/tag/v1.54.1) (2021-04-29)
+## 🐛 Bug Fixes- Fix site settings conflict for double ssl and deploytoken @leotoll (#939)## ✨ Enhancements- chore(RouterInfoInConsole) Implemented useMemo on matching routes @MarkusTarn (#942)- chore(RouterInfoInConsole) Significally reduced the number of renderings @MarkusTarn (#934)- feat(LargeStatic): allow builds up to 1GB compressed @adrien-k (#933)
+---
 #### **Layer0 Packages** - [v2.53.0](https://github.com/moovweb/xdn/releases/tag/v2.53.0) (2021-04-22)
 * Spartacus - Prefetching Header size issue (#877)
 ---
