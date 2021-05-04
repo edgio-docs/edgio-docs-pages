@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.54.4](https://github.com/moovweb/le-deployer/releases/tag/v1.54.4) (2021-05-04)
+## ✨ Enhancements- feat(Staff) Added teams to accounts table @KaarelKelk (#950)- fix empty tooltip @KaarelKelk (#951)## 🐛 Bug Fixes- Show more deployments should keep the scroll position @kevhender (#952)- Alerts multiple emails @MarkusTarn (#949)- Made rendering of really long lines better @MarkusTarn (#947)---
 #### **Layer0 Packages** - [v3.3.1](https://github.com/moovweb/xdn/releases/tag/v3.3.1) (2021-05-03)
 * Fix an bug that occurs when lerna.json does not have a packages field. (#897) @markbrocato* chore(build-lambda): increase deploy-lambda http timeout (#887) @adrien-k---
 #### **Layer0 Developer Console** - [v1.54.3](https://github.com/moovweb/le-deployer/releases/tag/v1.54.3) (2021-04-30)
