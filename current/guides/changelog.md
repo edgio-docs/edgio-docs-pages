@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.54.5](https://github.com/moovweb/le-deployer/releases/tag/v1.54.5) (2021-05-05)
+## 🐛 Bug Fixes- Notificaiton fixes @MarkusTarn (#953)---
 #### **Layer0 Packages** - [v3.4.0](https://github.com/moovweb/xdn/releases/tag/v3.4.0) (2021-05-04)
 * Update the first byte timeout limit algo to fit 60s practical limit (#879) @ierceg* build(deps): bump ssri from 6.0.1 to 6.0.2 (#870) @dependabot* [Snyk] Security upgrade next from 10.0.7 to 10.2.0 (#890) @MEGrimshaw* [Snyk] Security upgrade next from 10.0.9 to 10.2.0 (#889) @MEGrimshaw* [Snyk] Security upgrade next from 10.0.7 to 10.2.0 (#893) @MEGrimshaw* [Snyk] Security upgrade lodash from 4.17.19 to 4.17.21 (#896) @MEGrimshaw* [Snyk] Security upgrade lodash from 4.17.19 to 4.17.21 (#899) @MEGrimshaw* Fix cli use workspaces (#900) @markbrocato* Use ESBuild for bundling the router, config, and browser assets to improve build times. (#894) @markbrocato* fix(CLI): Ctrl+C not exiting in early deploy phases (before "deploying...") (#891) @adrien-k---
 #### **Layer0 Developer Console** - [v1.54.4](https://github.com/moovweb/le-deployer/releases/tag/v1.54.4) (2021-05-04)
