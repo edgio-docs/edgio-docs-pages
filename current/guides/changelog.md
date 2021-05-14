@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.54.6](https://github.com/moovweb/le-deployer/releases/tag/v1.54.6) (2021-05-14)
+## ✨ Enhancements- Router info clickable @MarkusTarn (#955)- Use traffic percentage instead of route percentage for donut chart @kevhender (#957)- Improve TLS @leotoll (#954)## 🐛  Bug Fixes- Date/time display fixes @kevhender (#922)- One click deploy fixes @dijs (#960)---
 #### **Layer0 Packages** - [v3.6.1](https://github.com/moovweb/xdn/releases/tag/v3.6.1) (2021-05-13)
 * Fix bad default route JSON (#914) @ierceg* Next.js: Fix TypeError: Cannot read property 'static' of undefined when running Layer0 in dev without router.use(nextRoutes) (#909) @markbrocato
 ---
