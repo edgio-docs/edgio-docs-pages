@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.55.0](https://github.com/moovweb/le-deployer/releases/tag/v1.55.0) (2021-05-17)
+## 🚀 New Features- Spotlight Search @MarkusTarn (#901)---
 #### **Layer0 Packages** - [v3.8.0](https://github.com/moovweb/xdn/releases/tag/v3.8.0) (2021-05-14)
 * Allow setting of a wider set of CDN headers through the router (#917) @ierceg---
 #### **Layer0 Packages** - [v3.7.0](https://github.com/moovweb/xdn/releases/tag/v3.7.0) (2021-05-14)
