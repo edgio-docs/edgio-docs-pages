@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.1](https://github.com/moovweb/le-deployer/releases/tag/v1.56.1) (2021-05-19)
+- Temporarily remove recaptcha for help form @kevhender (#986)---
 #### **Layer0 Packages** - [v3.8.1](https://github.com/moovweb/xdn/releases/tag/v3.8.1) (2021-05-18)
 * XDN-11658 - Routers that use #dir and build on windows can fail in th… (#920) @markbrocato---
 #### **XDN Packages** - [v2.53.2](https://github.com/moovweb/xdn/releases/tag/v2.53.2) (2021-05-18)
