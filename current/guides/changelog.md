@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.2](https://github.com/moovweb/le-deployer/releases/tag/v1.56.2) (2021-05-20)
+## ✨ Enhancements- Full-stack debugger: Fix fullscreen, auto-pause when messages stop coming @kevhender (#987)- Correct XDN text for github deploy steps @tristanlee85 (#984)## 🧰 Maintenance- [MIGRATION] TLS fixes @leotoll (#980)---
 #### **Layer0 Developer Console** - [v1.56.1](https://github.com/moovweb/le-deployer/releases/tag/v1.56.1) (2021-05-19)
 - Temporarily remove recaptcha for help form @kevhender (#986)---
 #### **Layer0 Packages** - [v3.8.1](https://github.com/moovweb/xdn/releases/tag/v3.8.1) (2021-05-18)
