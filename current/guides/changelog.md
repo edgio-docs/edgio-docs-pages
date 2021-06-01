@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.5](https://github.com/moovweb/le-deployer/releases/tag/v1.56.5) (2021-06-01)
+## 🚀 New Features- feat(BuildSnapshot) Implemented snapshot model [MIGRATION][CF] @KaarelKelk (#959)## 🐛 Bug Fixes- Added robots noindex to provisioning page @KaarelKelk (#1004)- Fixed local env not having RELEASE\_NR env var breaks console @MarkusTarn (#1008)---
 #### **Layer0 Packages** - [v3.10.1](https://github.com/moovweb/xdn/releases/tag/v3.10.1) (2021-05-27)
 * Remove console.log from NextRoutes when processing rewrites (#936) @markbrocato* XDN-11105 - Spartacus - Prefetching Header size issue (reapply #877 to 3.x) (#928) @ierceg---
 #### **Layer0 Developer Console** - [v1.56.4](https://github.com/moovweb/le-deployer/releases/tag/v1.56.4) (2021-05-25)
