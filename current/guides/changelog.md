@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.6](https://github.com/moovweb/le-deployer/releases/tag/v1.56.6) (2021-06-02)
+## ✨ Enhancements- Added option to search for both, server logs and deployment logs. @MarkusTarn (#1012)- Added statuspage embed code @KaarelKelk (#1014)## 🐛 Bug Fixes- Query variable now overrides the selectedRoute from withQueryNavigati… @MarkusTarn (#1000)---
 #### **Layer0 Developer Console** - [v1.56.5](https://github.com/moovweb/le-deployer/releases/tag/v1.56.5) (2021-06-01)
 ## 🚀 New Features- feat(BuildSnapshot) Implemented snapshot model [MIGRATION][CF] @KaarelKelk (#959)## 🐛 Bug Fixes- Added robots noindex to provisioning page @KaarelKelk (#1004)- Fixed local env not having RELEASE\_NR env var breaks console @MarkusTarn (#1008)---
 #### **Layer0 Packages** - [v3.10.1](https://github.com/moovweb/xdn/releases/tag/v3.10.1) (2021-05-27)
