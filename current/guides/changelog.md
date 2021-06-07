@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.7](https://github.com/moovweb/le-deployer/releases/tag/v1.56.7) (2021-06-07)
+## ✨ Enhancements- Mobile-friendly header/menu and login page @kevhender (#979)- Added information about 15s delay on server logs @MarkusTarn (#1009)- Remove nowrap from DateValue @KaarelKelk (#1020)- Using 1 commit to clone for 1 click deploy @dijs (#1016)- Fix background of some code tags @kevhender (#1006)---
 #### **Layer0 Packages** - [v3.12.1](https://github.com/moovweb/xdn/releases/tag/v3.12.1) (2021-06-04)
 * Next.js: Fix regression in 3.12.0 where deploys fail with a message a… (#945) @markbrocato---
 #### **Layer0 Packages** - [v3.12.0](https://github.com/moovweb/xdn/releases/tag/v3.12.0) (2021-06-04)
