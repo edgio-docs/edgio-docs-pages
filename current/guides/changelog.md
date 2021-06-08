@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.8](https://github.com/moovweb/le-deployer/releases/tag/v1.56.8) (2021-06-08)
+## 🐛 Bug Fixes- Added Domain query @MarkusTarn (#1021)- More mobile-friendly responsiveness fixes - Support form, My Account, others @kevhender (#1019)---
 #### **Layer0 Packages** - [v3.12.2](https://github.com/moovweb/xdn/releases/tag/v3.12.2) (2021-06-07)
 * Fix setting headers to array broken in production mode (#941) @ierceg---
 #### **Layer0 Developer Console** - [v1.56.7](https://github.com/moovweb/le-deployer/releases/tag/v1.56.7) (2021-06-07)
