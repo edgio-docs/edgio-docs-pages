@@ -1,4 +1,4 @@
-# Layer0 Version 2.x.x to 3.x.x Migration Guide
+# Layer0 Version 2.x.x to 3.x.x Migration Guide:
 
 This guide describes what you need to know when migrating from version 2.x.x to version 3.x.x. Note that you can continue to use version 2.x.x but we highly recommend upgrading to version 3.x.x. The biggest key change is that in keeping with industry best practices, v3 of the platform now requires Node 14 whereas v2 was on Node 12. 
 
