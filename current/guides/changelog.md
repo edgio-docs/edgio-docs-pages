@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.56.10](https://github.com/moovweb/le-deployer/releases/tag/v1.56.10) (2021-06-16)
+## ✨ Enhancements- Http logging enhancements @MarkusTarn (#1023)- feat(Metrics) Support .catch error page routes in metrics @KaarelKelk (#1029)- Fixed Layer0 messaging in 1 click deploy @dijs (#1027)---
 #### **Layer0 Packages** - [v3.13.3](https://github.com/moovweb/xdn/releases/tag/v3.13.3) (2021-06-11)
 * Next.js: Fix bug where static pages with dynamic routes and no getStaticProps are not routed correctly @markbrocato---
 #### **Layer0 Packages** - [v3.13.2](https://github.com/moovweb/xdn/releases/tag/v3.13.2) (2021-06-09)
