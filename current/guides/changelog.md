@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.57.0](https://github.com/moovweb/le-deployer/releases/tag/v1.57.0) (2021-06-21)
+## 🚀 New Features- [MIGRATIONS] BYO Fastly @leotoll (#1022)- Added optional tooltip to user avatar. @dijs (#1030)## ✨ Enhancements- BYOF polishing @leotoll (#1034)- add email to deploy identify @leotoll (#1033)## 🐛 Bug Fixes- Fix header items being cut off, empty team page responsive layout @kevhender (#1032)- Invalid metrics query will not be executed when no fastly\_service\_id @MarkusTarn (#1024)---
 #### **Layer0 Packages** - [v3.15.0](https://github.com/moovweb/xdn/releases/tag/v3.15.0) (2021-06-18)
 * XDN-12520 - Next.js: support rewrites to 3rd party origins (#963) @markbrocato---
 #### **Layer0 Packages** - [v3.14.0](https://github.com/moovweb/xdn/releases/tag/v3.14.0) (2021-06-17)
