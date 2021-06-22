@@ -1,3 +1,5 @@
+#### **Layer0 Developer Console** - [v1.57.2](https://github.com/moovweb/le-deployer/releases/tag/v1.57.2) (2021-06-22)
+- Use google dns @leotoll (#1042)---
 #### **Layer0 Developer Console** - [v1.57.1](https://github.com/moovweb/le-deployer/releases/tag/v1.57.1) (2021-06-22)
 - More Responsive Work @dijs (#1036)- Fixed React warnings around Avatar Tooltip @dijs (#1037)- Fix TLS for staff @leotoll (#1040)---
 #### **Layer0 Packages** - [v3.16.0](https://github.com/moovweb/xdn/releases/tag/v3.16.0) (2021-06-21)
